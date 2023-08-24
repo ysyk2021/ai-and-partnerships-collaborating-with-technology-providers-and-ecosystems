@@ -1,5 +1,3 @@
-Government Agencies and Non-Profit Organizations
-=======================================================================
 
 Partnerships between government agencies and non-profit organizations (NPOs) can play a critical role in leveraging the potential of artificial intelligence (AI) to address social, economic, and environmental challenges and promote public welfare. These partnerships can take various forms, depending on the nature of their objectives, scope, governance, and outcomes. In this chapter, we will discuss an overview of types of partnerships between government agencies and NPOs and their subcategories, including service delivery, advocacy and awareness-raising, capacity building and skills development, and research and innovation.
 

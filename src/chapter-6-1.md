@@ -1,5 +1,3 @@
-Ethical Issues Associated with the Use of AI in Partnerships
-====================================================================================
 
 The use of AI in partnerships raises ethical considerations that organizations need to address to ensure responsible and sustainable practices. In this chapter, we explore ethical issues associated with the use of AI in partnerships and provide guidance on how organizations can mitigate risks and ensure ethical conduct.
 

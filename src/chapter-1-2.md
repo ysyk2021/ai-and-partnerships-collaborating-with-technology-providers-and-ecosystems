@@ -1,5 +1,3 @@
-Overview of Artificial Intelligence and Its Applications in Partnerships
-======================================================================================
 
 Artificial Intelligence (AI) is a rapidly evolving technology that has the potential to transform the way organizations operate and collaborate. In this chapter, we provide an overview of AI and its applications in partnerships.
 

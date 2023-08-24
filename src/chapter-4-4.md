@@ -1,5 +1,3 @@
-Ecosystems and Open Innovation Networks
-==============================================================
 
 Ecosystems and open innovation networks are increasingly critical partnerships for organizations seeking to leverage AI technology to drive innovation and impact. In this chapter, we explore the role of ecosystems and open innovation networks in AI development and provide an overview of the different types of partnerships that organizations can explore when collaborating with them.
 

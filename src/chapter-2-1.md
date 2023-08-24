@@ -1,5 +1,3 @@
-Overview of Partnerships
-====================================================
 
 Partnerships are essential for organizations to leverage diverse perspectives and capabilities to achieve their goals, including those related to artificial intelligence (AI) technologies. In this chapter, we provide an overview of the different types of partnerships that organizations can use to leverage AI technologies.
 

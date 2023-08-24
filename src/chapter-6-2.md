@@ -1,5 +1,3 @@
-Best Practices for Ensuring Ethical and Responsible AI in Partnerships
-==============================================================================================
 
 The use of AI in partnerships has the potential to create significant benefits for organizations and society. However, it also raises ethical considerations that must be addressed to ensure responsible and sustainable practices. In this chapter, we will provide some best practices for ensuring ethical and responsible AI in partnerships.
 

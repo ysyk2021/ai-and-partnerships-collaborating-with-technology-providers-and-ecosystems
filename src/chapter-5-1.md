@@ -1,5 +1,3 @@
-Overview of AI-Based Partnership Strategies and Models
-==================================================================================================
 
 AI-based partnerships can take many forms, from informal collaborations to more structured alliances. In this chapter, we provide an overview of the different AI-based partnership strategies and models that organizations can consider when developing partnerships involving AI technologies.
 

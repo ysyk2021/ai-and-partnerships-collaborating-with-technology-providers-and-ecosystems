@@ -1,5 +1,3 @@
-Co-Creation and Joint Development
-=============================================================================
 
 Co-creation and joint development are AI-based partnership strategies that involve collaborating with partners to develop new products, processes, or services. In this chapter, we explore how organizations can leverage co-creation and joint development to drive innovation, create value, and achieve shared objectives.
 

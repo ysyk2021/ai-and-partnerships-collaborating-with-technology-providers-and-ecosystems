@@ -1,5 +1,3 @@
-Licensing and Intellectual Property Sharing
-=======================================================================================
 
 Licensing and intellectual property (IP) sharing are AI-based partnership strategies that involve collaborating with partners to leverage and commercialize proprietary technologies and data. In this chapter, we explore how organizations can leverage licensing and IP sharing to create value, protect their IP, and achieve shared objectives.
 

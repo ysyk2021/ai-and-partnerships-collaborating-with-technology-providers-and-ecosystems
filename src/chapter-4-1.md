@@ -1,5 +1,3 @@
-Overview of Types of Partnerships
-========================================================
 
 Partnerships are essential for organizations seeking to leverage AI technology to drive innovation and impact. These partnerships can take various forms, depending on the needs and goals of the organizations involved. In this chapter, we provide an overview of the types of partnerships that organizations can explore when collaborating with technology providers and ecosystems.
 

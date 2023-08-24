@@ -1,5 +1,3 @@
-Industry Consortia and Standards Bodies
-==============================================================
 
 Industry consortia and standards bodies are critical partnerships for organizations seeking to leverage AI technology to drive innovation and impact. In this chapter, we explore the role of industry consortia and standards bodies in AI development and provide an overview of the different types of partnerships that organizations can explore when collaborating with them.
 

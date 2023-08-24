@@ -1,5 +1,3 @@
-AI-Based Partnership Strategies and Models
-==========================================
 
 Partnerships with technology providers and ecosystems are becoming increasingly important for organizations to leverage the potential of artificial intelligence (AI) and drive innovation, growth, and competitiveness. AI-based partnership strategies and models can help organizations access complementary capabilities, technologies, data, and resources and create new value propositions and business models. In this chapter, we will discuss an overview of AI-based partnership strategies and models and their subcategories, including co-creation and joint development, licensing and intellectual property sharing, joint marketing and sales, and strategic alliances and mergers and acquisitions.
 

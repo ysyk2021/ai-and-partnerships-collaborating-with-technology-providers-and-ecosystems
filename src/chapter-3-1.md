@@ -1,5 +1,3 @@
-Types of Artificial Intelligence and Their Applications in Partnerships
-================================================================================================================
 
 Artificial Intelligence (AI) technology can be divided into three main types: supervised learning, unsupervised learning, and reinforcement learning. Each type has its unique strengths and applications, making it important for organizations to understand which type of AI is best suited for their needs when forming partnerships. In this chapter, we explore the different types of AI and their applications in partnerships.
 

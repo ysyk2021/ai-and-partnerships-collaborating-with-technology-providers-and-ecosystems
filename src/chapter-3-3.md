@@ -1,5 +1,3 @@
-Case Studies on the Use of AI in Partnerships
-======================================================================================
 
 Artificial intelligence (AI) technology is increasingly being used by organizations to drive innovation and create new value for customers. In this chapter, we explore case studies of AI in partnerships, highlighting the different ways organizations are leveraging AI technology to achieve their goals.
 
