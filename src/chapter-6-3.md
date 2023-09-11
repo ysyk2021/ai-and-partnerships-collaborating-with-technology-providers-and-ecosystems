@@ -1,5 +1,4 @@
-Chapter: Future Directions and Challenges
-=========================================
+**The current status of this chapter is draft. I will finish it later when I have time**
 
 In this chapter, we explore the future directions and challenges of collaborating with technology providers and ecosystems in the context of AI. As AI continues to evolve and shape our world, it is important to anticipate potential future developments and understand the challenges that may arise in partnership collaborations.
 

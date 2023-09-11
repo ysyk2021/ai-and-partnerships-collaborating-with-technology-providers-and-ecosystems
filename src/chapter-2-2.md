@@ -1,5 +1,4 @@
-Chapter: Traditional Approaches to Partnerships
-===============================================
+**The current status of this chapter is draft. I will finish it later when I have time**
 
 In this chapter, we explore traditional approaches to partnerships in the context of collaborating with technology providers and ecosystems for AI-driven initiatives. These conventional methods have been widely used and offer valuable insights into establishing successful collaborations.
 

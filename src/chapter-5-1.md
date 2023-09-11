@@ -1,5 +1,4 @@
-Chapter: Overview of AI-Based Partnership Strategies and Models
-===============================================================
+**The current status of this chapter is draft. I will finish it later when I have time**
 
 In this chapter, we provide an overview of AI-based partnership strategies and models in the context of collaborating with technology providers and ecosystems. These innovative approaches leverage AI technologies to drive partnerships that unlock new opportunities, foster innovation, and create value.
 

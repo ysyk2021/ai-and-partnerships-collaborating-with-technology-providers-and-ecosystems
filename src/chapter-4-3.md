@@ -1,5 +1,4 @@
-Chapter: Industry Consortia and Standards Bodies
-================================================
+**The current status of this chapter is draft. I will finish it later when I have time**
 
 In this chapter, we explore the significance of industry consortia and standards bodies in the context of AI and partnerships with technology providers and ecosystems. These collaborative efforts play a crucial role in shaping the development, adoption, and ethical implementation of AI technologies across industries.
 

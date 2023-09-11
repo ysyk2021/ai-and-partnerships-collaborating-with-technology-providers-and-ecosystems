@@ -1,5 +1,4 @@
-Chapter: Overview of Types of Partnerships
-==========================================
+**The current status of this chapter is draft. I will finish it later when I have time**
 
 In this chapter, we provide an overview of the types of partnerships that can be formed when collaborating with technology providers and ecosystems in the context of AI. By understanding these different partnership models, organizations can effectively leverage technology and ecosystem resources to drive innovation and achieve their goals.
 

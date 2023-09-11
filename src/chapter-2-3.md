@@ -1,5 +1,4 @@
-Chapter: Limitations and Challenges of Traditional Approaches
-=============================================================
+**The current status of this chapter is draft. I will finish it later when I have time**
 
 In this chapter, we explore the limitations and challenges associated with traditional approaches to AI collaborations with technology providers and ecosystems. While partnerships offer numerous benefits, it is important to acknowledge and address the potential obstacles that may arise in order to ensure successful outcomes.
 
